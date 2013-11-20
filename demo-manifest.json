@@ -1,0 +1,34 @@
+{
+    "wallpapers": {
+        "category": [
+            {
+                "name": "Category Title",
+                "wallpaper": [
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://www.sinaimg.cn/dy/slidenews/10_t160/2013_39/846_121534_324200.jpg",
+                        "thumbUrl": "http://www.sinaimg.cn/dy/slidenews/10_img/2013_39/846_121534_324200.jpg",
+                        "name": "WP 1"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://www.sinaimg.cn/dy/slidenews/10_t160/2013_39/846_121533_813866.jpg",
+                        "thumbUrl": "http://www.sinaimg.cn/dy/slidenews/10_img/2013_39/846_121533_813866.jpg",
+                        "name": "WP 2"
+                    }
+                ]
+            },
+            {
+                "name": "Category Title 2",
+                "wallpaper": [
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://www.sinaimg.cn/dy/slidenews/10_t160/2013_39/846_121532_522539.jpg",
+                        "thumbUrl": "http://www.sinaimg.cn/dy/slidenews/10_img/2013_39/846_121532_522539.jpg",
+                        "name": "WP 1"
+                    }
+                ]
+            }
+        ]
+    }
+}
